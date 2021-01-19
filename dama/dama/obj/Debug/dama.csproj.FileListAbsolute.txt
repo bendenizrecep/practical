@@ -1,0 +1,10 @@
+C:\Users\racap\Desktop\demo\dama\dama\bin\Debug\dama.exe.config
+C:\Users\racap\Desktop\demo\dama\dama\bin\Debug\dama.exe
+C:\Users\racap\Desktop\demo\dama\dama\bin\Debug\dama.pdb
+C:\Users\racap\Desktop\demo\dama\dama\obj\Debug\dama.csprojAssemblyReference.cache
+C:\Users\racap\Desktop\demo\dama\dama\obj\Debug\dama.Form1.resources
+C:\Users\racap\Desktop\demo\dama\dama\obj\Debug\dama.Properties.Resources.resources
+C:\Users\racap\Desktop\demo\dama\dama\obj\Debug\dama.csproj.GenerateResource.cache
+C:\Users\racap\Desktop\demo\dama\dama\obj\Debug\dama.csproj.CoreCompileInputs.cache
+C:\Users\racap\Desktop\demo\dama\dama\obj\Debug\dama.exe
+C:\Users\racap\Desktop\demo\dama\dama\obj\Debug\dama.pdb
